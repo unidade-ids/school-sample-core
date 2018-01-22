@@ -1,0 +1,13 @@
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\bin\Debug\netcoreapp2.0\SchoolTreinee.Web.deps.json
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\bin\Debug\netcoreapp2.0\SchoolTreinee.Web.runtimeconfig.json
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\bin\Debug\netcoreapp2.0\SchoolTreinee.Web.runtimeconfig.dev.json
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\bin\Debug\netcoreapp2.0\SchoolTreinee.Web.dll
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\bin\Debug\netcoreapp2.0\SchoolTreinee.Web.pdb
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\bin\Debug\netcoreapp2.0\SchoolTreinee.Domain.dll
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\bin\Debug\netcoreapp2.0\SchoolTreinee.Domain.pdb
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\obj\Debug\netcoreapp2.0\SchoolTreinee.Web.csprojResolveAssemblyReference.cache
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\obj\Debug\netcoreapp2.0\SchoolTreinee.Web.csproj.CoreCompileInputs.cache
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\obj\Debug\netcoreapp2.0\SchoolTreinee.Web.AssemblyInfoInputs.cache
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\obj\Debug\netcoreapp2.0\SchoolTreinee.Web.AssemblyInfo.cs
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\obj\Debug\netcoreapp2.0\SchoolTreinee.Web.dll
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Web\obj\Debug\netcoreapp2.0\SchoolTreinee.Web.pdb

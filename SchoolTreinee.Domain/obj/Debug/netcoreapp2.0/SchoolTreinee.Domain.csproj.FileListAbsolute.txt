@@ -1,0 +1,9 @@
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Domain\bin\Debug\netcoreapp2.0\SchoolTreinee.Domain.deps.json
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Domain\bin\Debug\netcoreapp2.0\SchoolTreinee.Domain.dll
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Domain\bin\Debug\netcoreapp2.0\SchoolTreinee.Domain.pdb
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Domain\obj\Debug\netcoreapp2.0\SchoolTreinee.Domain.csproj.CoreCompileInputs.cache
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Domain\obj\Debug\netcoreapp2.0\SchoolTreinee.Domain.AssemblyInfoInputs.cache
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Domain\obj\Debug\netcoreapp2.0\SchoolTreinee.Domain.AssemblyInfo.cs
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Domain\obj\Debug\netcoreapp2.0\SchoolTreinee.Domain.dll
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Domain\obj\Debug\netcoreapp2.0\SchoolTreinee.Domain.pdb
+D:\Trainee\TreinamentoRepository\SchoolTreinee\SchoolTreinee.Domain\obj\Debug\netcoreapp2.0\SchoolTreinee.Domain.csprojResolveAssemblyReference.cache
